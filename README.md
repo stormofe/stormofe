@@ -1,5 +1,13 @@
 <img src='https://github.com/stormofe/stormofe/blob/main/assets/header.svg' width='100%' />
 
+<h1 align="center">Hi 👋, I'm Prokopets Aleksandra</h1>
+<h3 align="center">A frontend developer from Ukraine</h3>
+
+- 🔭 I’m currently working on [React Resume builder](https://stormofe.github.io/Resume-Builder-App/#/)
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **stormofe@gmail.com**
 
 ## 🚀  Languages and Tools:
 
@@ -11,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksandra-prokopets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandra-prokopets" height="30" width="40" /></a>
-</p>
-<p align="left">
+</p> <p align="left">
 <a href="https://t.me/AleksandraWeb" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Classic-Logo.wine.svg" alt="aleksandra-prokopets" height="40" width="40" /></a>
 </p>
