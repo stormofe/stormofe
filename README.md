@@ -1,4 +1,3 @@
-[![Header](https://github.com/stormofe/stormofe/blob/main/assets/header.jpg)]
 <img src='https://github.com/stormofe/stormofe/blob/main/assets/header.jpg' width='100%' />
 ## 🙋‍♂️  About Me
 
