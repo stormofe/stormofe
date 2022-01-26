@@ -1,4 +1,4 @@
-<img src='https://github.com/stormofe/stormofe/blob/main/assets/header.jpg' width='100%' />
+<img src='https://github.com/stormofe/stormofe/blob/main/assets/header.svg' width='100%' />
 ## 🙋‍♂️  About Me
 
 -   🔭  I’m currently working on  **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
