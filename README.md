@@ -1,4 +1,4 @@
-[![Header](https://github.com/stormofe/stormofe/blob/master/assets/header.jpg)]
+[![Header](https://github.com/stormofe/stormofe/blob/main/assets/header.jpg)]
 ## 🙋‍♂️  About Me
 
 -   🔭  I’m currently working on  **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
