@@ -1,4 +1,4 @@
-<img src='https://github.com/stormofe/stormofe/blob/main/assets/header.svg' width='100%' />
+<img src='https://github.com/stormofe/stormofe/blob/main/assets/header.jpg' width='100%' />
 
 
 ## 🚀  Languages and Tools:
