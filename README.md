@@ -1,11 +1,13 @@
 <img src='https://github.com/stormofe/stormofe/blob/main/assets/header.svg' width='100%' />
 
 
-- 🔭 I’m currently working on [React Resume builder](https://stormofe.github.io/Resume-Builder-App/#/)
+- :computer: I’m currently working on [React Resume builder](https://stormofe.github.io/Resume-Builder-App/#/)
 
-- 🌱 I’m currently learning **React**
+- :books: I’m currently learning **React**
 
-- 📫 How to reach me **stormofe@gmail.com**
+- :speech_balloon: How to reach me **stormofe@gmail.com**
+
+- :headphones: My hobbies are yoga 🧘‍♀️, reading :book: and playing video games :video_game:
 
 ## 🚀  Languages and Tools:
 
