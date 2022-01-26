@@ -7,3 +7,8 @@
  
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stormofe&theme=react-dark)](https://github.com/stormofe)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aleksandra-prokopets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandra-prokopets" height="30" width="40" /></a>
+</p>
