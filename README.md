@@ -1,6 +1,6 @@
 <img src='https://github.com/stormofe/stormofe/blob/main/assets/header.svg' width='100%' />
 
-- :speech_balloon: How to reach me **stormofe@gmail.com**
+- :speech_balloon: How to reach me **aleksandra.frontend.web@gmail.com**
 
 - :headphones: My hobbies are yoga 🧘‍♀️, reading :book: and playing video games :video_game:
 
@@ -12,5 +12,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksandra-prokopets" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandra-prokopets" height="30" width="40" /></a>
- <a href="https://t.me/AleksandraWeb" target="_blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Classic-Logo.wine.svg" alt="aleksandra-prokopets" height="50" width="50" /></a>
+ <a href="https://t.me/frontendAleksandra" target="_blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Classic-Logo.wine.svg" alt="aleksandra-prokopets" height="50" width="50" /></a>
 </p>
